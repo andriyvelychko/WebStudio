@@ -1089,9 +1089,6 @@ hr{
     font-size: 1.5rem;
     font-style: normal;
 }
-.form-control:invalid{
-  border: 2px solid red;
-}
 .form-field:nth-child(1) .form-control,
 .form-field:nth-child(2) .form-control{
     border-bottom: none;
